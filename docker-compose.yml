@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  spring-native-example:
+    image: docker.io/library/spring-native-example:0.0.1-SNAPSHOT
+    ports:
+      - "8080:8080"
