@@ -13,3 +13,5 @@ buildNumber.properties
 #Intellij
 .idea
 *.iml
+
+.aws-sam

@@ -1,0 +1,8 @@
+[
+  {
+    "name" : "org.springframework.cloud.function.adapter.aws.FunctionInvoker"
+  },
+  {
+    "name" : "org.springframework.cloud.function.adapter.aws.SpringBootStreamHandler"
+  }
+]
